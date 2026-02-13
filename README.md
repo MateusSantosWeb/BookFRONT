@@ -279,3 +279,4 @@ Se precisar de ajuda com a integração, verifique:
 - CORS configurado corretamente
 - URLs da API corretas
 # BookFRONT
+# BookFRONT
